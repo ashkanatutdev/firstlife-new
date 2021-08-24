@@ -1,1 +1,74 @@
+[
+    {
+        "descrizione": "Azienda Agricola Bermond Daniele",
+        "id": "607c851c28cea24a43221218",
+        "id_categoria":"1891",
+        "descrizione_categoria":"Azienda agricola",
+        "tipo_attivita":"P",
+        "indirizzo": "Fraz. San Sicario, 1 Cesana Torinese (TO) 1891",
+        "link": "https://www.torinocheese.com/azienda/azienda-agricola-bermond-daniele/",
+        "telefono": "+39 346 0920355 37",
+        "coordinate": {
+            "lat": "6.814988",
+            "lng": "44.9662888"
+        }
+    },
 
+    {
+        "descrizione": "Borgiattino",
+        "id": "607c86ce3decfbf337d52176",
+        "id_categoria":"1892",
+        "descrizione_categoria":"Negozio",
+        "tipo_attivita":"V",
+        "indirizzo": "Corso Vinzaglio, 29 Torino (TO) 10121",
+        "link": "http://borgiattino.com/",
+        "telefono": "0115629075",
+        "coordinate": {
+            "lat": "7.6654197",
+            "lng": "45.068469"
+        }
+    },
+    {
+        "descrizione": "Mercato di Porta Palazzo",
+        "id": "60aa1c437bb45f062efedd4d",
+        "id_categoria":"1898",
+        "descrizione_categoria":"Mercato",
+        "tipo_attivita":"V",
+        "indirizzo": "Piazza della Repubblica,  Torino (TO) 10122",
+        "link": "http://borgiattino.com/",
+        "telefono": "0115629075",
+        "coordinate": {
+            "lat": "7.68354",
+            "lng": "45.07668"
+        }
+    },
+
+    {
+        "descrizione": "Mercato di Bardonecchia",
+        "id": "60aa1c197bb45fffb7fedd4a",
+        "id_categoria":"1898",
+        "descrizione_categoria":"Mercato",
+        "tipo_attivita":"V",
+        "indirizzo": "Piazza della Fiera,  Bardonecchia (TO) 10052",
+        "link": "",
+        "telefono": "",
+        "coordinate": {
+            "lat": "6.69578",
+            "lng": "45.07917"
+        }
+    },
+    {
+        "descrizione": "Mercato di Oulx",
+        "id": "60aa1bf4311001032cb6e211",
+        "id_categoria":"1898",
+        "descrizione_categoria":"Mercato",
+        "tipo_attivita":"V",
+        "indirizzo": "Oulx - Piazza Garambois, Regione Sotto la Rocca,  Oulx (TO) 10056",
+        "link": "",
+        "telefono": "",
+        "coordinate": {
+            "lat": "6.83121",
+            "lng": "45.03064"
+        }
+    }
+]
