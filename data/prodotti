@@ -1,1 +1,74 @@
-
+[
+    {
+        "nome_prodotto": "Latte intero di alta montagna",
+        "id_prodotto":"60aa047f0df96103f7dc59a5",
+        "categoria_prodotto":"LATTICINI",
+        "aziende_produzione":["607c851c28cea24a43221218"],
+        "aziende_vendita":[],
+        "aziende_somministrazione":[]
+    },
+    {
+        "nome_prodotto": "Yogurt intero con latte di alta montagna",
+        "id_prodotto":"60a3e0b53340e8538f73694a",
+        "categoria_prodotto":"LATTICINI",
+        "aziende_produzione":["607c851c28cea24a43221218"],
+        "aziende_vendita":[],
+        "aziende_somministrazione":[]
+    },
+    {
+        "nome_prodotto": "Toma di San Sicario",
+        "id_prodotto":"60a3dd0fa6d8fe527f31004f",
+        "categoria_prodotto":"LATTICINI",
+        "aziende_produzione":["607c851c28cea24a43221218"],
+        "aziende_vendita":["607c86ce3decfbf337d52176","60aa1c437bb45f062efedd4d","60aa1c197bb45fffb7fedd4a","60aa1bf4311001032cb6e211"],
+        "aziende_somministrazione":[]
+    },
+    {
+        "nome_prodotto": "Salame crudo BIO",
+        "id_prodotto":"60a9fb810df96103f7dc59a4",
+        "categoria_prodotto":"CARNE",
+        "aziende_produzione":[],
+        "aziende_vendita":[],
+        "aziende_somministrazione":[]
+    },
+    {
+        "nome_prodotto": "Spalla senza osso BIO",
+        "id_prodotto":"60a9fb710df96103f7dc59a3",
+        "categoria_prodotto":"CARNE",
+        "aziende_produzione":[],
+        "aziende_vendita":[],
+        "aziende_somministrazione":[]
+    },
+    {
+        "nome_prodotto": "Capocollo di suino senza osso BIO",
+        "id_prodotto":"60a9fb5b0df96103f7dc59a2",
+        "categoria_prodotto":"CARNE",
+        "aziende_produzione":[],
+        "aziende_vendita":[],
+        "aziende_somministrazione":[]
+    },
+    {
+        "nome_prodotto": "Coscia di suino senza osso, con cotenna e stinco BIO",
+        "id_prodotto":"60a9fb4a0df96103f7dc59a1",
+        "categoria_prodotto":"CARNE",
+        "aziende_produzione":[],
+        "aziende_vendita":[],
+        "aziende_somministrazione":[]
+    },
+    {
+        "nome_prodotto": "Pancetta di suino senza cotenna BIO",
+        "id_prodotto":"60a9fb170df96103f7dc59a0",
+        "categoria_prodotto":"CARNE",
+        "aziende_produzione":[],
+        "aziende_vendita":[],
+        "aziende_somministrazione":[]
+    },
+    {
+        "nome_prodotto": "Carrè di suino con osso taglio Tomahawk BIO",
+        "id_prodotto":"60a9fb000df96103f7dc599f",
+        "categoria_prodotto":"CARNE",
+        "aziende_produzione":[],
+        "aziende_vendita":[],
+        "aziende_somministrazione":[]
+    }
+]
